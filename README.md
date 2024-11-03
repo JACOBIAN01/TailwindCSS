@@ -52,12 +52,4 @@ Design a contact form that collects user information. Style input fields, button
 ## 9. Login/Signup Page
 Build a clean and simple login and signup page. Use Tailwind to create form layouts and buttons that are visually appealing.
 
-## 10. CSS Animations Showcase
-Create a page that showcases various CSS animations using Tailwind. Include buttons and elements that animate on hover or click.
 
-## Tips for Each Project
-- **Responsive Design**: Use Tailwind's responsive utilities to ensure your designs look good on all devices.
-- **Customization**: Experiment with the `tailwind.config.js` file to customize colors, spacing, and fonts to fit your design needs.
-- **Accessibility**: Keep accessibility in mind while designing your projects (e.g., using semantic HTML, proper alt attributes for images).
-
-These projects will not only help you practice Tailwind CSS but also improve your overall front-end development skills!
